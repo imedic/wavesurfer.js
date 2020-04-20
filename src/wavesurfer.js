@@ -237,7 +237,7 @@ export default class WaveSurfer extends util.Observer {
             // Boolean that hints the user agent to reduce the latency
             // by desynchronizing the canvas paint cycle from the event
             // loop
-            desynchronized: true
+            desynchronized: false
         },
         duration: null,
         fillParent: true,
