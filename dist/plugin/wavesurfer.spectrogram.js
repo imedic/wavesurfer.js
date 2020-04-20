@@ -1,5 +1,5 @@
 /*!
- * wavesurfer.js spectrogram plugin 3.2.0 (2019-12-24)
+ * wavesurfer.js spectrogram plugin 3.2.0 (2020-04-20)
  * https://github.com/katspaugh/wavesurfer.js
  * @license BSD-3-Clause
  */
@@ -373,9 +373,7 @@ var FFT = function FFT(bufferSize, sampleRate, windowFunc, alpha) {
  */
 
 
-var SpectrogramPlugin =
-/*#__PURE__*/
-function () {
+var SpectrogramPlugin = /*#__PURE__*/function () {
   _createClass(SpectrogramPlugin, null, [{
     key: "create",
 

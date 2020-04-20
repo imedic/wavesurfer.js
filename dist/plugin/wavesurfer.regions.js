@@ -1,5 +1,5 @@
 /*!
- * wavesurfer.js regions plugin 3.2.0 (2019-12-24)
+ * wavesurfer.js regions plugin 3.2.0 (2020-04-20)
  * https://github.com/katspaugh/wavesurfer.js
  * @license BSD-3-Clause
  */
@@ -136,9 +136,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
  *
  * @extends {Observer}
  */
-var Region =
-/*#__PURE__*/
-function () {
+var Region = /*#__PURE__*/function () {
   function Region(params, ws) {
     var _this = this;
 
@@ -782,9 +780,7 @@ function () {
  */
 
 
-var RegionsPlugin =
-/*#__PURE__*/
-function () {
+var RegionsPlugin = /*#__PURE__*/function () {
   _createClass(RegionsPlugin, null, [{
     key: "create",
 

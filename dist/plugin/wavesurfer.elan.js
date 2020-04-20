@@ -1,5 +1,5 @@
 /*!
- * wavesurfer.js elan plugin 3.2.0 (2019-12-24)
+ * wavesurfer.js elan plugin 3.2.0 (2020-04-20)
  * https://github.com/katspaugh/wavesurfer.js
  * @license BSD-3-Clause
  */
@@ -158,9 +158,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
  *   ]
  * });
  */
-var ElanPlugin =
-/*#__PURE__*/
-function () {
+var ElanPlugin = /*#__PURE__*/function () {
   _createClass(ElanPlugin, null, [{
     key: "create",
 

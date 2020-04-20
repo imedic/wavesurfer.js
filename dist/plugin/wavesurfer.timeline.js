@@ -1,5 +1,5 @@
 /*!
- * wavesurfer.js timeline plugin 3.2.0 (2019-12-24)
+ * wavesurfer.js timeline plugin 3.2.0 (2020-04-20)
  * https://github.com/katspaugh/wavesurfer.js
  * @license BSD-3-Clause
  */
@@ -181,9 +181,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
  *   ]
  * });
  */
-var TimelinePlugin =
-/*#__PURE__*/
-function () {
+var TimelinePlugin = /*#__PURE__*/function () {
   _createClass(TimelinePlugin, null, [{
     key: "create",
 
